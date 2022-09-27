@@ -25,3 +25,6 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1xqh9d85ptiurfd4wuzftevro&cover_image=true&theme=default" /></div>  
 
 <br/> 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
