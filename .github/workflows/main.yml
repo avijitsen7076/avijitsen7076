@@ -16,7 +16,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: true
           SHOW_TOTAL_CODE_TIME: true
-          SHOW_AVERAGE_CODING_ACTIVITY: true
           SHOW_LANGUAGE: true
           SHOW_OS: true
           
