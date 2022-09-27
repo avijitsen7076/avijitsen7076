@@ -30,7 +30,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=avijitsen7076&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ashavijit&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -61,7 +61,7 @@
 <p align="center">
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=DHANOLA&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=ashavijit&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 </p>
@@ -78,7 +78,7 @@
 <br>
 <p align="centre">
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=avijitsen7076&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashavijit&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
 
 
 
