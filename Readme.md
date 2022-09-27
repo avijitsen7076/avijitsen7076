@@ -19,3 +19,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=avijitsen7076&icon=0&color=0)](https://visitcount.itsvg.in)
+  
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1xqh9d85ptiurfd4wuzftevro&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
